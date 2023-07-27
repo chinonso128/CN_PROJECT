@@ -10,7 +10,7 @@ const Home = () => (
     <p className='desc text-center'>
       Cookaholic is a platform for sharing your recipes with the world. We use AI-powered prompts to help you write your recipes.
     </p>
-
+      
     <Feed />
   </section>
 );
